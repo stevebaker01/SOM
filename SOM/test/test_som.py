@@ -1,4 +1,3 @@
-import pytest
 from unittest import TestCase
 from SOM.som import BASE_URL
 from nose.tools import assert_equal
